@@ -1,6 +1,6 @@
 ##### welcome to REST APIs
 
-## we will use MVC architecture
+## we will use MVC architecture [User Details, MongoDB]
 
 1. /api/user -> GET -->{find all users}
 
